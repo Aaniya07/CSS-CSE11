@@ -6,7 +6,7 @@
   display:inline;
 }
 
- .container{
+.container{
   height:auto;
   width:auto;
   text-align: center;
@@ -23,13 +23,13 @@
 }
 
 .box1{
- background-color:maroon
+ background-color:rgb(135, 135, 12)
 }
 
 .box2{
- background-color:rgb(104, 218, 224)
+ background-color:rgb(154, 18, 47)
 }
 
 .box3{
- background-color:rgb(247, 243, 33)
+ background-color:rgb(19, 136, 44)
 }
